@@ -1,0 +1,14 @@
+[
+  {
+    "firstName" : "John",
+    "LastName" : "Doe",
+    "age" : 54,
+    "hasPets" : true
+  },
+  {
+    "firstName" : "Jane",
+    "LastName" : "Doe",
+    "age" : 49,
+    "hasPets" : true
+  }
+]
